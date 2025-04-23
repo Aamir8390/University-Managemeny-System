@@ -88,7 +88,7 @@ Admin panel allows creating and editing user roles, courses, and more
 
 # License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the @LICENSE file for details.
 
 ---
 
