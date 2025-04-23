@@ -5,21 +5,18 @@
 # Introduction
 A comprehensive Java-based University Management System designed to streamline academic operations such as student enrollment, faculty data handling, course management, and examination tracking.
 
-## Table of Contents
+#Table of Contents
 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
 - [License](#license)
 
 ---
 
-## Features
+# Features
 
 - Student registration and record management
 - Faculty and staff management
@@ -29,7 +26,7 @@ A comprehensive Java-based University Management System designed to streamline a
 - Admin dashboard for full control
 - Simple GUI for ease of use
 
-## Tech Stack
+#Tech Stack
 
 - **Programming Language:** Java  
 - **Database:** MySQL  
@@ -66,7 +63,7 @@ Execute Main.java
 
 
 
-##Features 
+#Usage
 
 Login as admin or staff
 
@@ -89,7 +86,7 @@ Admin panel allows creating and editing user roles, courses, and more
 
 
 
-##License
+#License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
