@@ -84,14 +84,14 @@ Admin panel allows creating and editing user roles, courses, and more
 
 ## Project Structure
 ```
-├── src/
-│   ├── database/          # DB connection and queries
-│   ├── model/             # POJO classes for Student, Faculty, Course, etc.
-│   ├── ui/                # GUI components (Swing/JFrame files)
-│   └── Main.java          # Entry point
-├── resources/
-│   └── schema.sql         # MySQL schema file
-├── README.md
+.idea/
+src/
+├── icon/
+├── universitymanagement/
+.gitignore
+LICENSE
+README.md
+
 ```
 
 ---
