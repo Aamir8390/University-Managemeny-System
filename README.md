@@ -73,7 +73,7 @@ Admin panel allows creating and editing user roles, courses, and more
 
 
 ## Project Structure
-
+```
 ├── src/
 │   ├── database/          # DB connection and queries
 │   ├── model/             # POJO classes for Student, Faculty, Course, etc.
@@ -82,17 +82,16 @@ Admin panel allows creating and editing user roles, courses, and more
 ├── resources/
 │   └── schema.sql         # MySQL schema file
 ├── README.md
+```
 
+---
 
-
-
-# License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
 Let me know if you'd like a version specifically tailored for a **GitHub Pages** portfolio or to include badges (like build status, license, etc.).
-
 
 
